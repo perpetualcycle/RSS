@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>LE STADE AUX USA</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/7428-le-stade-aux-usa</link>
+      <description></description>
+      <pubDate>Tue, 19 Sep 2023 12:30:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Album : Entraînement avant USA - ST</title>
       <link>https://www.stadetoulousain.fr/media/photos/7423-album-entrainement-avant-usa-st</link>
       <description></description>
@@ -123,12 +129,6 @@
       <link>https://www.stadetoulousain.fr/media/video/6967-resume-video-colomiers-st-match-amical</link>
       <description></description>
       <pubDate>Mon, 07 Aug 2023 14:40:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retour sur la finale du TOP 14 2023</title>
-      <link>https://www.stadetoulousain.fr/media/actu-club/6793-retour-sur-la-finale-du-top-14-2023</link>
-      <description></description>
-      <pubDate>Sat, 01 Jul 2023 08:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
