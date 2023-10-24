@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Des retours à l&#39;entraînement</title>
+      <link>https://www.stadetoulousain.fr/media/photos/7506-des-retours-lentrainement</link>
+      <description></description>
+      <pubDate>Tue, 24 Oct 2023 07:32:56 +0000</pubDate>
+    </item>
+    <item>
       <title>L&#39;entraînement à Fronton en vidéo</title>
       <link>https://www.stadetoulousain.fr/media/video/7497-lentrainement-fronton-en-video</link>
       <description></description>
@@ -129,18 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/7041-entrainement-avant-ab-st</link>
       <description></description>
       <pubDate>Wed, 16 Aug 2023 19:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Résumé vidéo : Montpellier - ST, match amical</title>
-      <link>https://www.stadetoulousain.fr/media/video/7037-resume-video-montpellier-st-match-amical</link>
-      <description></description>
-      <pubDate>Fri, 11 Aug 2023 09:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Album : Montpellier - ST, match amical</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7038-album-montpellier-st-match-amical</link>
-      <description></description>
-      <pubDate>Fri, 11 Aug 2023 09:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
