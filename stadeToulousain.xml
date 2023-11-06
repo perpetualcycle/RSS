@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Le résumé vidéo de SP - ST</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8130-le-resume-video-de-sp-st</link>
+      <description></description>
+      <pubDate>Mon, 06 Nov 2023 13:16:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Point presse avant SP-ST</title>
       <link>https://www.stadetoulousain.fr/media/video/7717-point-presse-avant-sp-st</link>
       <description></description>
@@ -129,12 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/video/7285-resume-video-st-montpellier</link>
       <description></description>
       <pubDate>Mon, 28 Aug 2023 15:54:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Album : ST / MONTPELLIER 23/24</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7283-album-st-montpellier-2324</link>
-      <description></description>
-      <pubDate>Mon, 28 Aug 2023 12:40:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
