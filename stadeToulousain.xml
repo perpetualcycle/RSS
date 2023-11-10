@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Point presse avant l&#39;USAP</title>
+      <link>https://www.stadetoulousain.fr/media/video/8139-point-presse-avant-lusap</link>
+      <description></description>
+      <pubDate>Fri, 10 Nov 2023 13:30:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Derniers réglages avant ST-USAP</title>
       <link>https://www.stadetoulousain.fr/media/photos/8134-derniers-reglages-avant-st-usap</link>
       <description></description>
@@ -129,12 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/7401-album-oyonnax-st-2324</link>
       <description></description>
       <pubDate>Mon, 04 Sep 2023 07:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Point presse avant Oyonnax</title>
-      <link>https://www.stadetoulousain.fr/media/video/7295-point-presse-avant-oyonnax</link>
-      <description></description>
-      <pubDate>Fri, 01 Sep 2023 10:40:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
