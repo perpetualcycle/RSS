@@ -5,6 +5,18 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Le résumé vidéo de ST - USAP</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8508-le-resume-video-de-st-usap</link>
+      <description></description>
+      <pubDate>Mon, 13 Nov 2023 10:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retour sur ST-USAP</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8507-retour-sur-st-usap</link>
+      <description></description>
+      <pubDate>Mon, 13 Nov 2023 07:12:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Point presse avant l&#39;USAP</title>
       <link>https://www.stadetoulousain.fr/media/video/8139-point-presse-avant-lusap</link>
       <description></description>
@@ -117,18 +129,6 @@
       <link>https://www.stadetoulousain.fr/media/video/7422-le-stade-aux-usa-partie-12</link>
       <description></description>
       <pubDate>Thu, 14 Sep 2023 16:57:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>L&#39;essai des mois d&#39;août / septembre 2023</title>
-      <link>https://www.stadetoulousain.fr/media/video/7412-lessai-des-mois-daout-septembre-2023</link>
-      <description></description>
-      <pubDate>Mon, 11 Sep 2023 16:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Résumé vidéo : Oyonnax - ST</title>
-      <link>https://www.stadetoulousain.fr/media/video/7406-resume-video-oyonnax-st</link>
-      <description></description>
-      <pubDate>Wed, 06 Sep 2023 15:54:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
