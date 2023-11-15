@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Castres en approche</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8512-castres-en-approche</link>
+      <description></description>
+      <pubDate>Wed, 15 Nov 2023 16:53:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Le résumé vidéo de ST - USAP</title>
       <link>https://www.stadetoulousain.fr/media/equipe-pro/8508-le-resume-video-de-st-usap</link>
       <description></description>
@@ -111,18 +117,6 @@
       <link>https://www.stadetoulousain.fr/media/equipe-pro/7428-le-stade-aux-usa</link>
       <description></description>
       <pubDate>Mon, 25 Sep 2023 06:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>LE STADE AUX USA : Partie 2/2</title>
-      <link>https://www.stadetoulousain.fr/media/video/7433-le-stade-aux-usa-partie-22</link>
-      <description></description>
-      <pubDate>Fri, 22 Sep 2023 08:25:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Album : Entraînement avant USA - ST</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7423-album-entrainement-avant-usa-st</link>
-      <description></description>
-      <pubDate>Fri, 15 Sep 2023 10:49:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
