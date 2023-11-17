@@ -5,8 +5,14 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Point presse avant Castres</title>
+      <link>https://www.stadetoulousain.fr/media/video/8519-point-presse-avant-castres</link>
+      <description></description>
+      <pubDate>Fri, 17 Nov 2023 14:42:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Castres en approche</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8512-castres-en-approche</link>
+      <link>https://www.stadetoulousain.fr/media/photos/8512-castres-en-approche</link>
       <description></description>
       <pubDate>Wed, 15 Nov 2023 16:53:22 +0000</pubDate>
     </item>
@@ -99,24 +105,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/7490-du-rugby-fronton</link>
       <description></description>
       <pubDate>Thu, 19 Oct 2023 09:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vidéo de l&#39;entraînement délocalisé</title>
-      <link>https://www.stadetoulousain.fr/media/video/7479-video-de-lentrainement-delocalise</link>
-      <description></description>
-      <pubDate>Mon, 09 Oct 2023 13:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entraînement délocalisé à Villefranche-de-Lauragais</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7473-entrainement-delocalise-villefranche-de-lauragais</link>
-      <description></description>
-      <pubDate>Fri, 06 Oct 2023 14:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>LE STADE AUX USA</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/7428-le-stade-aux-usa</link>
-      <description></description>
-      <pubDate>Mon, 25 Sep 2023 06:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
