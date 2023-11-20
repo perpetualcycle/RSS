@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Le résumé vidéo de CO - ST</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8611-le-resume-video-de-co-st</link>
+      <description></description>
+      <pubDate>Mon, 20 Nov 2023 10:00:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Point presse avant Castres</title>
       <link>https://www.stadetoulousain.fr/media/video/8519-point-presse-avant-castres</link>
       <description></description>
@@ -99,12 +105,6 @@
       <link>https://www.stadetoulousain.fr/media/video/7497-lentrainement-fronton-en-video</link>
       <description></description>
       <pubDate>Sat, 21 Oct 2023 16:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Du rugby à Fronton</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7490-du-rugby-fronton</link>
-      <description></description>
-      <pubDate>Thu, 19 Oct 2023 09:16:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
