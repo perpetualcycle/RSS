@@ -5,8 +5,14 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Semaine de travail avant #STASM</title>
+      <link>https://www.stadetoulousain.fr/media/photos/8615-semaine-de-travail-avant-stasm</link>
+      <description></description>
+      <pubDate>Thu, 23 Nov 2023 09:53:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Le résumé vidéo de CO - ST</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8611-le-resume-video-de-co-st</link>
+      <link>https://www.stadetoulousain.fr/media/video/8611-le-resume-video-de-co-st</link>
       <description></description>
       <pubDate>Mon, 20 Nov 2023 10:00:11 +0000</pubDate>
     </item>
@@ -24,7 +30,7 @@
     </item>
     <item>
       <title>Le résumé vidéo de ST - USAP</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8508-le-resume-video-de-st-usap</link>
+      <link>https://www.stadetoulousain.fr/media/video/8508-le-resume-video-de-st-usap</link>
       <description></description>
       <pubDate>Mon, 13 Nov 2023 10:30:11 +0000</pubDate>
     </item>
@@ -54,7 +60,7 @@
     </item>
     <item>
       <title>Le résumé vidéo de SP - ST</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8130-le-resume-video-de-sp-st</link>
+      <link>https://www.stadetoulousain.fr/media/video/8130-le-resume-video-de-sp-st</link>
       <description></description>
       <pubDate>Mon, 06 Nov 2023 13:16:11 +0000</pubDate>
     </item>
@@ -99,12 +105,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/7506-des-retours-lentrainement</link>
       <description></description>
       <pubDate>Tue, 24 Oct 2023 07:32:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>L&#39;entraînement à Fronton en vidéo</title>
-      <link>https://www.stadetoulousain.fr/media/video/7497-lentrainement-fronton-en-video</link>
-      <description></description>
-      <pubDate>Sat, 21 Oct 2023 16:20:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
