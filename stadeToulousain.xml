@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Point presse avant Clermont</title>
+      <link>https://www.stadetoulousain.fr/media/video/8621-point-presse-avant-clermont</link>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2023 14:00:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Semaine de travail avant #STASM</title>
       <link>https://www.stadetoulousain.fr/media/photos/8615-semaine-de-travail-avant-stasm</link>
       <description></description>
@@ -99,12 +105,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/7513-entrainement-avant-st-ubb</link>
       <description></description>
       <pubDate>Thu, 26 Oct 2023 08:38:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des retours à l&#39;entraînement</title>
-      <link>https://www.stadetoulousain.fr/media/photos/7506-des-retours-lentrainement</link>
-      <description></description>
-      <pubDate>Tue, 24 Oct 2023 07:32:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
