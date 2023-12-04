@@ -5,6 +5,24 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>SFP - ST : le résumé vidéo</title>
+      <link>https://www.stadetoulousain.fr/media/video/8782-sfp-st-le-resume-video</link>
+      <description></description>
+      <pubDate>Mon, 04 Dec 2023 10:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Album : Match SFP Vs ST</title>
+      <link>https://www.stadetoulousain.fr/media/photos/8781-album-match-sfp-vs-st</link>
+      <description></description>
+      <pubDate>Mon, 04 Dec 2023 08:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>FirST interview : Nepo Laulala</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8780-first-interview-nepo-laulala</link>
+      <description></description>
+      <pubDate>Mon, 04 Dec 2023 08:34:28 +0000</pubDate>
+    </item>
+    <item>
       <title>L&#39;essai des mois d&#39;octobre / novembre 2023</title>
       <link>https://www.stadetoulousain.fr/media/video/8709-lessai-des-mois-doctobre-novembre-2023</link>
       <description></description>
@@ -105,18 +123,6 @@
       <link>https://www.stadetoulousain.fr/media/video/8130-le-resume-video-de-sp-st</link>
       <description></description>
       <pubDate>Mon, 06 Nov 2023 13:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Point presse avant SP-ST</title>
-      <link>https://www.stadetoulousain.fr/media/video/7717-point-presse-avant-sp-st</link>
-      <description></description>
-      <pubDate>Fri, 03 Nov 2023 15:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Objectif Pau</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/7711-objectif-pau</link>
-      <description></description>
-      <pubDate>Thu, 02 Nov 2023 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
