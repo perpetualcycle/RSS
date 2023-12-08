@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Point presse avant Cardiff</title>
+      <link>https://www.stadetoulousain.fr/media/video/8811-point-presse-avant-cardiff</link>
+      <description></description>
+      <pubDate>Fri, 08 Dec 2023 16:34:58 +0000</pubDate>
+    </item>
+    <item>
       <title>FirST interview : Blair Kinghorn</title>
       <link>https://www.stadetoulousain.fr/media/equipe-pro/8807-first-interview-blair-kinghorn</link>
       <description></description>
@@ -117,18 +123,6 @@
       <link>https://www.stadetoulousain.fr/media/video/8139-point-presse-avant-lusap</link>
       <description></description>
       <pubDate>Fri, 10 Nov 2023 13:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Derniers réglages avant ST-USAP</title>
-      <link>https://www.stadetoulousain.fr/media/photos/8134-derniers-reglages-avant-st-usap</link>
-      <description></description>
-      <pubDate>Thu, 09 Nov 2023 10:55:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les internationaux français sont de retour !</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8132-les-internationaux-francais-sont-de-retour</link>
-      <description></description>
-      <pubDate>Tue, 07 Nov 2023 17:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
