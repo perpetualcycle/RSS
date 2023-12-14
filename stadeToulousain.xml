@@ -5,6 +5,18 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>HAR - ST : le point presse</title>
+      <link>https://www.stadetoulousain.fr/media/video/8907-har-st-le-point-presse</link>
+      <description></description>
+      <pubDate>Thu, 14 Dec 2023 16:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Album : Musculation avant HAR - ST</title>
+      <link>https://www.stadetoulousain.fr/media/photos/8906-album-musculation-avant-har-st</link>
+      <description></description>
+      <pubDate>Thu, 14 Dec 2023 09:58:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Entraînement avant HAR - ST</title>
       <link>https://www.stadetoulousain.fr/media/photos/8901-entrainement-avant-har-st</link>
       <description></description>
@@ -123,12 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/video/8508-le-resume-video-de-st-usap</link>
       <description></description>
       <pubDate>Mon, 13 Nov 2023 10:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retour sur ST-USAP</title>
-      <link>https://www.stadetoulousain.fr/media/equipe-pro/8507-retour-sur-st-usap</link>
-      <description></description>
-      <pubDate>Mon, 13 Nov 2023 07:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
