@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>ON THE ROAD TO LONDON</title>
+      <link>https://www.stadetoulousain.fr/media/photos/8916-road-london</link>
+      <description></description>
+      <pubDate>Fri, 15 Dec 2023 15:17:01 +0000</pubDate>
+    </item>
+    <item>
       <title>HAR - ST : le point presse</title>
       <link>https://www.stadetoulousain.fr/media/video/8907-har-st-le-point-presse</link>
       <description></description>
@@ -129,12 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/photos/8512-castres-en-approche</link>
       <description></description>
       <pubDate>Wed, 15 Nov 2023 16:53:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le résumé vidéo de ST - USAP</title>
-      <link>https://www.stadetoulousain.fr/media/video/8508-le-resume-video-de-st-usap</link>
-      <description></description>
-      <pubDate>Mon, 13 Nov 2023 10:30:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
