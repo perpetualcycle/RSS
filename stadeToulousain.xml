@@ -5,6 +5,12 @@
     <description>Stade Toulousain - Équipe Pro - Actualités</description>
     <managingEditor> (Stade Toulousain)</managingEditor>
     <item>
+      <title>Album photo : Harlequins - ST</title>
+      <link>https://www.stadetoulousain.fr/media/equipe-pro/8998-album-photo-harlequins-st</link>
+      <description></description>
+      <pubDate>Mon, 18 Dec 2023 09:45:30 +0000</pubDate>
+    </item>
+    <item>
       <title>ON THE ROAD TO LONDON</title>
       <link>https://www.stadetoulousain.fr/media/photos/8916-road-london</link>
       <description></description>
@@ -129,12 +135,6 @@
       <link>https://www.stadetoulousain.fr/media/video/8519-point-presse-avant-castres</link>
       <description></description>
       <pubDate>Fri, 17 Nov 2023 14:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Castres en approche</title>
-      <link>https://www.stadetoulousain.fr/media/photos/8512-castres-en-approche</link>
-      <description></description>
-      <pubDate>Wed, 15 Nov 2023 16:53:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
